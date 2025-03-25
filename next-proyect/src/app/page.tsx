@@ -8,7 +8,7 @@ export default function Landing() {
       <div className="w-full h-screen relative flex items-center justify-center flex-col text-center">
         <div className="absolute inset-0 -z-10 opacity-50">
           <Image
-            src="https://files.oaiusercontent.com/file-1ujLLx6rN39urwYjRJLteU?se=2024-12-16T02%3A19%3A43Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dddae83de-90c7-4c6f-8381-1de28bc91df4.webp&sig=fqTkEk/oCkx/Gg//qDmkD3o1ipJ%2B9bxNpLYQfZyq%2BQQ%3D"
+            src="https://img.freepik.com/foto-gratis/lindo-fondo-navideno-bokeh_1361-3548.jpg?t=st=1742932285~exp=1742935885~hmac=43ecfa10f1a124c503a89ac5e911405190c7cac67df44231d2dc593640b5a992&w=1060"
             alt="Background"
             layout="fill"
             objectFit="cover"
