@@ -158,8 +158,8 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 **María Ignacia Fernández** - Frontend Developer  
 📧 Email: [mfernandezpolanco@gmail.com](mailto:mfernandezpolanco@gmail.com)  
-🔗 LinkedIn: [Tu perfil de LinkedIn]  
-🌐 Portfolio: [Tu sitio web]
+🔗 LinkedIn: [www.linkedin.com/in/maria-ignacia-fernandez-p]  
+🌐 Portfolio: [https://ignacia-fernandez.vercel.app]
 
 ## 📄 Licencia
 
