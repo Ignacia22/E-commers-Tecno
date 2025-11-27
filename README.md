@@ -93,12 +93,12 @@ Abrir [http://localhost:3000](http://localhost:3000)
 <div align="center">
 <table>
 <tr>
-<td><img src="https://via.placeholder.com/380x200/1e293b/06B6D4?text=Home" alt="Home"/><br/><b>Home</b></td>
-<td><img src="https://via.placeholder.com/380x200/1e293b/06B6D4?text=Productos" alt="Productos"/><br/><b>Catálogo</b></td>
+<td><img src="https://res.cloudinary.com/dosbg5xdd/image/upload/v1745440963/Captura_de_pantalla_2025-04-23_163952_vldxpy.png" alt="Home"/><br/><b>Home</b></td>
+<td><img src="https://res.cloudinary.com/dosbg5xdd/image/upload/v1764263796/imagen_2025-11-27_141634570_nudil2.png" alt="Productos"/><br/><b>Catálogo</b></td>
 </tr>
 <tr>
-<td><img src="https://via.placeholder.com/380x200/1e293b/06B6D4?text=Carrito" alt="Carrito"/><br/><b>Carrito</b></td>
-<td><img src="https://via.placeholder.com/380x200/1e293b/06B6D4?text=Checkout" alt="Checkout"/><br/><b>Checkout</b></td>
+<td><img src="https://res.cloudinary.com/dosbg5xdd/image/upload/v1764263871/imagen_2025-11-27_141750514_khafh5.png" alt="Carrito"/><br/><b>Carrito</b></td>
+<td><img src="https://res.cloudinary.com/dosbg5xdd/image/upload/v1764263954/imagen_2025-11-27_141913298_tnrd4y.png" alt="Checkout"/><br/><b>Login</b></td>
 </tr>
 </table>
 </div>
